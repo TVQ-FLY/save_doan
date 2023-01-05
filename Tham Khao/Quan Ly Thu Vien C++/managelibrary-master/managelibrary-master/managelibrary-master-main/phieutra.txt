@@ -1,0 +1,9 @@
+Phieu tra sach
+=============================
+Ho ten: Ton That Hai
+Ma so sach:    Ten sach: 
+5              JavaScript
+Ngay tra: 22/5/2021
+                             
+=============================
+Nguoi muon ky va ghi ro ho ten

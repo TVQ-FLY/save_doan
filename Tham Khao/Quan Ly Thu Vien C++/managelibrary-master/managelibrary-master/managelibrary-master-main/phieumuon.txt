@@ -1,0 +1,10 @@
+Phieu muon sach
+=============================
+Ho ten: le pham cong
+Ma so sach:    Ten sach: 
+1              Hat giong tam hon 1
+2              Giai tich 2
+Ngay muon: 28/5/2021
+                             
+=============================
+Nguoi muon ky va ghi ro ho ten

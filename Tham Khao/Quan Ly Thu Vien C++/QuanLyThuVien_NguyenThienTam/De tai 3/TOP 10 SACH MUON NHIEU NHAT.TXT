@@ -1,0 +1,12 @@
+			 **** TOP 10 QUYEN SACH CO SO LUOT MUON NHIEU NHAT ***
+10
+TK3, Quan Tri Thoi Gian, 200, Ts Le Tham Duong, 2015, 1, S3
+CN1, Ki Thuat Lap Trinh, 512, Tran Dan Thu, 2014, 1, A2
+TK2, Duong Loi Dang, 200, Tran Xuan Qui, 2010, 1, D3
+KT3, Kiem Toan, 156, Tran Xuan Loc, 2009, 1, G4
+CN4, Co So Du Lieu, 158, Luu Nguyen Ki Thu, 2005, 1, B3
+CN5, Ctdl-gt, 134, Do Xuan Loi, 2010, 1, D4
+CN10, Tu Hoc C# 24h, 150, Do Xuan Loi, 2011, 1, A2
+CN6, Tu Hoc Java 24h, 167, Nguyen Xuan Phuc, 2010, 1, G4
+CN9, Tu Hoc C/c++, 200, Dang Binh Phuong, 2005, 1, W2
+CN, Lap Trinh Oop, 250, Tran Dan Thu, 2014, 1, D2

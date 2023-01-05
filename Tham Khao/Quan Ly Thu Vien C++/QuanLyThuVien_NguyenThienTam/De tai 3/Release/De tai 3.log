@@ -1,0 +1,17 @@
+﻿Build started 9/19/2015 11:34:40 PM.
+     1>Project "E:\THIEN TAM\Information Technology\Giao trình học C\Cấu trúc dữ liệu - giải thuật\Đề tài cấu trúc dữ liệu và giải thuật_Thư Viện\De tai 3\De tai 3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\De tai 3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         De tai 3.vcxproj -> E:\THIEN TAM\Information Technology\Giao trình học C\Cấu trúc dữ liệu - giải thuật\Đề tài cấu trúc dữ liệu và giải thuật_Thư Viện\Release\De tai 3.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\De tai 3.unsuccessfulbuild".
+         Touching "Release\De tai 3.lastbuildstate".
+     1>Done Building Project "E:\THIEN TAM\Information Technology\Giao trình học C\Cấu trúc dữ liệu - giải thuật\Đề tài cấu trúc dữ liệu và giải thuật_Thư Viện\De tai 3\De tai 3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

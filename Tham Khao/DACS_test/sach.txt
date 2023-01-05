@@ -1,0 +1,10 @@
+111, 3, cuon theo chieu gio
+222, 7, thoi quen cua nguoi thanh dat
+333, 9, nghi giau lam giau
+444, 8, co be ban diem
+555, 5, nghin le mot dem
+666, 5, hinh hoc
+
+011, 5, Hiee
+032, 6, hello
+222, 5, ttttt

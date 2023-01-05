@@ -1,0 +1,21 @@
+20
+TK3, Quan Tri Thoi Gian, 200, Ts Le Tham Duong, 2015, 1, S3
+CN1, Ki Thuat Lap Trinh, 512, Tran Dan Thu, 2014, 1, A2
+TK2, Duong Loi Dang, 200, Tran Xuan Qui, 2010, 1, D3
+KT3, Kiem Toan, 156, Tran Xuan Loc, 2009, 1, G4
+CN4, Co So Du Lieu, 158, Luu Nguyen Ki Thu, 2005, 1, B3
+CN5, Ctdl-gt, 134, Do Xuan Loi, 2010, 1, D4
+CN10, Tu Hoc C# 24h, 150, Do Xuan Loi, 2011, 1, A2
+CN6, Tu Hoc Java 24h, 167, Nguyen Xuan Phuc, 2010, 1, G4
+CN9, Tu Hoc C/c++, 200, Dang Binh Phuong, 2005, 1, W2
+CN, Lap Trinh Oop, 250, Tran Dan Thu, 2014, 1, D2
+KT2, Toan Kiem Ke, 200, Nguyen Xuan Phuc, 2005, 1, T2
+CN2, Ctdl-gt, 230, Luu Nguyen Ki Thu, 2000, 0, B3
+CN7, Ctdl-gt, 168, Hoang Kiem, 2003, 0, E2
+KT4, Ke Toan Tai Chinh, 200, Nguyen Minh Nhat, 2014, 0, E3
+CN3, Lap Trinh Can Ban, 150, Tran Minh Triet, 2005, 0, G2
+TK1, Tu Duy Logic, 200, Mcinerny, 2010, 0, H3
+CN8, Tu Hoc C/c++, 250, Tran Minh Triet, 2000, 0, S2
+BT, Bt-ktlt, 150, Tran Minh Khang, 2013, 0, F4
+KT1, Ke Toan Tai Chinh, 150, Tran Dang Khoa, 2010, 0, F2
+CN11, Tu Hoc C# 24h, 190, Tran Hanh Nhi, 2000, 0, G4
